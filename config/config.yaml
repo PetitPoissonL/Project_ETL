@@ -1,0 +1,26 @@
+columns_to_keep:
+- scientificName
+- countryCode
+- decimalLatitude
+- decimalLongitude
+- eventDate
+- day
+- month
+- year
+- occurrenceStatus
+- basisOfRecord
+- datasetKey
+- kingdom
+- phylum
+- class
+- order
+- family
+- genus
+- species
+- taxonRank
+- occurrenceID
+- individualCount
+configuration:
+  dataset_visualization: /data/dataset_cleaned 2024-01-22 11_19_09.csv
+  occurrences: 0
+  path_file: /Users/ningyu/Desktop/Projets_data/ETL_Panthera_leo
